@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="battery.capacity">2946</item>
+    <array name="cpu.clusters.cores">
+        <value>4</value>
+    </array>
+    <item name="cpu.suspend">4.5</item>
+    <item name="cpu.idle">2.855</item>
+    <item name="cpu.active">18.757</item>
+    <item name="cpu.cluster_power.cluster0">6</item>
+    <array name="cpu.core_speeds.cluster0">
+        <value>850000</value>
+        <value>918000</value>
+        <value>987000</value>
+        <value>1056000</value>
+        <value>1125000</value>
+        <value>1216000</value>
+        <value>1308000</value>
+        <value>1400000</value>
+        <value>1466000</value>
+        <value>1533000</value>
+        <value>1633000</value>
+        <value>1700000</value>
+        <value>1767000</value>
+        <value>1834000</value>
+        <value>1917000</value>
+        <value>2001000</value>
+    </array>
+    <array name="cpu.core_power.cluster0">
+        <value>40</value>
+        <value>48</value>
+        <value>56</value>
+        <value>66</value>
+        <value>77</value>
+        <value>88</value>
+        <value>100</value>
+        <value>113</value>
+        <value>125</value>
+        <value>139</value>
+        <value>157</value>
+        <value>173</value>
+        <value>189</value>
+        <value>210</value>
+        <value>229</value>
+        <value>249</value>
+    </array>
+    <item name="screen.on">106.83</item>
+    <item name="screen.full">192.34</item>
+    <item name="camera.flashlight">185.6</item>
+    <item name="camera.avg">371.58</item>
+    <item name="video">166.35</item>
+    <item name="audio">28.78</item>
+    <item name="wifi.controller.idle">2</item>
+    <item name="wifi.controller.rx">166</item>
+    <item name="wifi.controller.tx">720</item>
+    <item name="wifi.controller.voltage">3700</item>
+    <item name="modem.controller.sleep">0</item>
+    <item name="modem.controller.idle">145</item>
+    <item name="modem.controller.rx">147</item>
+    <array name="modem.controller.tx">
+        <value>153</value>
+        <value>198</value>
+        <value>259</value>
+        <value>310</value>
+        <value>395</value>
+    </array>
+    <item name="modem.controller.voltage">3700</item>
+    <array name="gps.signalqualitybased">
+        <value>49</value>
+        <value>8</value>
+    </array>
+    <item name="gps.voltage">3700</item>
+    <item name="bluetooth.controller.idle">0.01</item>
+    <item name="bluetooth.controller.rx">9</item>
+    <item name="bluetooth.controller.tx">7</item>
+    <item name="bluetooth.controller.voltage">3300</item>
+</device>
